@@ -16,13 +16,13 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/Chot">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/chot">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:chot@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -97,18 +97,18 @@ const chot = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chot&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chot&theme=tokyonight&hide_border=true&background=0d1117" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Chot&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
 
 ## 📈 Activity Graph
@@ -159,7 +159,7 @@ const interests = {
 
 *"The best way to predict the future is to create it."* ✨
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Chot&color=blueviolet&style=for-the-badge)
 
 <!-- Wave Footer -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer)
