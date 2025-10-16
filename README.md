@@ -1,16 +1,16 @@
-## Hi there 👋
+<!-- Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=180&section=header&text=Ohm%20Siripol%20👨‍💻&fontSize=40&fontColor=ffffff)
 
-<!--
-**iamchot/iamchot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Chot
+💻 Full-Stack Developer   
+🧠 Passionate about Web Apps, Database Systems, and Clean UI  
+🌱 Currently exploring Angular, PHP, and Modern Web Stacks  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Tech Stack
+```text
+Frontend   : HTML · CSS · JavaScript · Angular  
+Backend    : PHP  
+Database   : MySQL · Firebase  
+Tools      : VS Code · Git · XAMPP · Figma
