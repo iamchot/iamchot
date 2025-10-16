@@ -6,8 +6,8 @@
 
 **Specializing in ChatGPT • Gemini • Claude**
 
-[![AI](https://img.shields.io/badge/AI-Expert-blue?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/yourusername)
-[![Development](https://img.shields.io/badge/Full%20Stack-Developer-green?style=for-the-badge&logo=code&logoColor=white)](https://github.com/yourusername)
+[![AI](https://img.shields.io/badge/AI-Expert-blue?style=for-the-badge&logo=openai&logoColor=white)]
+[![Development](https://img.shields.io/badge/Full%20Stack-Developer-green?style=for-the-badge&logo=code&logoColor=white)]
 
 </div>
 
