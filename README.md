@@ -2,9 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=180&section=header&text=Hello%20World!!!%20&fontSize=40&fontColor=ffffff)
 
 # 👋 Hi, I'm Chot
-💻 Full-Stack Developer   
-🧠 Passionate about Web Apps, Database Systems, and Clean UI  
-🌱 Currently exploring Angular, PHP, and Modern Web Stacks  
+🤖 Expert in ChatGPT, Gemini, and Claude  
 
 ---
 
