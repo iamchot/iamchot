@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chot
+# 👋 Hi, I'm Chotbodin Siripol
 
 <div align="center">
   
